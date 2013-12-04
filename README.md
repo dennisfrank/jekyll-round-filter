@@ -1,10 +1,7 @@
 jekyll-round-filter
 ===================
 
-Round a float to a given precision in decimal digits.
-
-This is a [Liquid](http://liquidmarkup.org/) filter intended to be used with [Jekyll](http://github.com/mojombo/jekyll) static site generator.
-
+This [Liquid](http://liquidmarkup.org/) filter lets you round floats in [Jekyll](http://jekyllrb.com/) templates to a given precision in decimal digits.
 
 
 ## Installation
