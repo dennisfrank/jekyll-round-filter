@@ -1,5 +1,7 @@
 # Round a float to a given precision in decimal digits
 #
+# Github: https://github.com/freshmango/jekyll-round-filter
+#
 # input - The number to round
 # precision - Precision in decimal digits (default 0 digits)
 #
